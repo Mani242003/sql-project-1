@@ -31,7 +31,7 @@ WHERE
     quantity IS NULL OR price_per_unit IS NULL OR cogs IS NULL;
 ```
 
-### 3. Data Analysis & Findings
+### 2. Data Analysis & Findings
 
 The following SQL queries were developed to answer specific business questions:
 
