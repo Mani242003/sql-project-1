@@ -10,7 +10,7 @@ This project is designed to demonstrate SQL skills  and answering specific busin
 
 
 
-### 2. Data Exploration & Cleaning
+### 1. Data  Cleaning
 
 
 - **Null Value Check**: Check for any null values in the dataset and delete records with missing data.
